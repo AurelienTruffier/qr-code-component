@@ -19,8 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR Code Component](https://qr-code-component-blush-three.vercel.app/)
 
 ## My process
 
@@ -32,6 +31,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://truffieraurelien.ovh)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AurelienTruffier)
+- Website - [My portfolio](https://truffieraurelien.ovh)
+- Frontend Mentor - [@AurelienTruffier](https://www.frontendmentor.io/profile/AurelienTruffier)
 
